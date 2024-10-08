@@ -1,7 +1,7 @@
 
 ## *Oxidative stress as a potential mechanism linking gestational phthalates exposure to cognitive development in infancy*
 
-[DOI](10.1016/j.ntt.2024.107397)
+[DOI](https://doi.org/10.1016/j.ntt.2024.107397)
 
 PMID: 39362385
 
