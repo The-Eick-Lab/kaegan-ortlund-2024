@@ -256,6 +256,7 @@ full_crude_adj_plot$Phthalate <- factor(full_crude_adj_plot$Phthalate, levels = 
 
 
 fig3 <- ggplot(full_crude_adj_plot, aes(x = Beta, y = Phthalate, color = Phthalate, linetype = Model)) +
+   facet_grid(~Stress) +
    xlab("Beta (95% Confidence Interval)") +
    ylab("Phthalate") +
    ggtitle("Phthalate Metabolites and Oxidative Stress Biomarkers") +
